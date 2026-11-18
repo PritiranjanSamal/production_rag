@@ -1,0 +1,10 @@
+langchain
+langchain-community
+sentence-transformers
+chromadb
+langchain-groq
+python-dotenv
+numpy
+pydantic>=2.0.0
+typing-extensions>=4.6.0
+chainlit
